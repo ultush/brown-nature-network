@@ -27,6 +27,9 @@ The **original** Ontario Trillium Foundation (OTF) Grant Open Data files used fo
 The downloaded file used for applying methodology and analysis can be found here: [otf_granting_data_since_april_1_2015_original2](https://github.com/ultush/ontario-trillium-foundation-grants/blob/master/otf_granting_data_since_april_1_2015_original2.csv)
 
 This project uses a cleaned up version of the file, as there were a number of data typographical errors in the original file.
+
 The cleanup process was completed using [OpenRefine](https://openrefine.org/)
+
 The cleanup steps are found here for repeatability:  https://github.com/ultush/ontario-trillium-foundation-grants/blob/master/JSON-OpenRefine-cleaning-steps-OTF-since-2015.md
+
 The cleaned up version of  the file can be found here: https://github.com/ultush/ontario-trillium-foundation-grants/blob/master/otf_granting_data_since_april_1_2015_original2-openrefine-output.csv
