@@ -6,6 +6,7 @@ Charities in Canada are incorporated organizations and are approved by Canada Re
 An important distinction in the social economy between Canada and other jurisdictions such as the US, is that non-profits in the U.S. are charities and can accept charitable donations unlike in Canada where not all non-profits are charities.
 Charities in Canada are a specific legal organizational designation that can accept, for example, financial donations and issue charitable tax receipts.
 Non-profits in Canada have a broader legal designation that cannot for example issue charitable tax receipts.
+Detailed differences between charities and nonprofit organizations in Canada are described by [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/about-registered-charities/what-difference-between-a-registered-charity-a-non-profit-organization.html).
 Furthermore, nonprofits in Canada can be registered or incorporated at both federal and provincial levels.
 Therefore, in Canada all charities are non-profits, but all non-profits are not charities.
 This research focuses on charities in Canada, and specifically on data published by the CRA on Charities in Canada.
@@ -60,7 +61,7 @@ The following files were provided for the year 2018:
 19. 2018-T3010-Schedule 7-Resources-As of June 2020.csv
 20. 2018-T3010-Trustees-As of June 2020.csv
 
-#### Category_Sub-Category.csv
+#### Category_Sub-Category.csv File
 This file contains the following fields:
 * Category Code
 * Category English Desc
@@ -72,3 +73,16 @@ This file contains the following fields:
 * English Desc
 * Charity Type
 * French Desc
+
+The fields in the Category_Sub-Category.csv are designed to support two purposes, first to match the categories of charities laid out in legislaton: [Charities Registration (Security Information) Act](https://laws-lois.justice.gc.ca/eng/acts/C-27.55/index.html). Second codes rather than long form descriptions allow more efficient form data entry and verification.  
+
+The Charity Type field in the Category_Sub-Category.csv file for example has four categories in accordance with the Charities Registration (Security Information) Act:
+
+1. relief of poverty (food banks, soup kitchens, and low-cost housing units)
+2. advancement of education (colleges, universities, and research institutes)
+3. advancement of religion (places of worship and missionary organizations)
+4. purposes beneficial to the community (animal shelters, libraries, and volunteer fire departments)
+
+The short list of formal charity types is fairly restrictive, and the Category and Sub Category fields provide a more detailed set of classification possibilities.
+
+ 
