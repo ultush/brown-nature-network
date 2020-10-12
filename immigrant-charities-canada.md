@@ -1,5 +1,6 @@
 # Introduction
-This file describes a top down approach to understanding charitable organizations in Canada, through the sociological lens of racialized immigrants, and people with disabilities and their interaction with environmental issues. Charities serving racialized immigrants and people with disabilities in Canada are identified from available Canada Revenue Agency data.
+This file describes a top down approach to understanding charitable organizations in Canada, through the sociological lens of racialized immigrants, and their interaction with environmental issues.
+Charities serving racialized immigrants in Canada are identified from available Canada Revenue Agency data.
 
 # Charities in Canada
 Charities in Canada are incorporated organizations and are approved by Canada Revenue Agency (CRA) based on a set of criteria.
@@ -8,13 +9,13 @@ Charities in Canada are a specific legal organizational designation that can acc
 Non-profits in Canada have a broader legal designation that cannot for example issue charitable tax receipts.
 Detailed differences between charities and nonprofit organizations in Canada are described by [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/about-registered-charities/what-difference-between-a-registered-charity-a-non-profit-organization.html).
 Furthermore, nonprofits in Canada can be registered or incorporated at both federal and provincial levels.
-Therefore, in Canada all charities are non-profits, but all non-profits are not charities.
+In Canada all charities are non-profits, but all non-profits are not charities.
 This research focuses on charities in Canada, and specifically on data published by the CRA on Charities in Canada.
 
 ## Canada Revenue Agency
 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) is the regulator for the charitable sector in Canada.
-The analysis also uses two sociological lenses, immigration and disability to analyze the data.
-To this authors knowledge, no analysis of CRA T3010 data has been completed with a primary focus on racialized immigrants or people with disabilities. (reference Brouard and other research on T3010 Data)
+The analysis also uses a sociological lenses, immigration and disability to analyze the data.
+To this authors knowledge, no analysis of CRA T3010 data has been completed with a primary focus on racialized immigrants. (reference Brouard and other research on T3010 Data)
 
 ### Canada Revenue Agency T3010 data
 T3010 is the name of the CRA form through which charities in Canada file their primary financial reports with the government of Canada.
@@ -74,7 +75,7 @@ This file contains the following fields:
 * Charity Type
 * French Desc
 
-The fields in the Category_Sub-Category.csv are designed to support two purposes, first to match the categories of charities laid out in legislaton: [Charities Registration (Security Information) Act](https://laws-lois.justice.gc.ca/eng/acts/C-27.55/index.html). Second codes rather than long form descriptions allow more efficient form data entry and verification.  
+The fields in the Category_Sub-Category.csv are designed to support two purposes, first to match the categories of charities laid out in legislaton: [Charities Registration (Security Information) Act](https://laws-lois.justice.gc.ca/eng/acts/C-27.55/index.html). Second codes rather than long form descriptions allow more efficient form data entry and verification.
 
 The Charity Type field in the Category_Sub-Category.csv file for example has four categories in accordance with the Charities Registration (Security Information) Act:
 
@@ -84,5 +85,3 @@ The Charity Type field in the Category_Sub-Category.csv file for example has fou
 4. purposes beneficial to the community (animal shelters, libraries, and volunteer fire departments)
 
 The short list of formal charity types is fairly restrictive, and the Category and Sub Category fields provide a more detailed set of classification possibilities.
-
- 
