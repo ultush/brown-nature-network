@@ -15,7 +15,7 @@ This research focuses on charities in Canada, and specifically on data published
 ## Canada Revenue Agency
 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency.html) is the regulator for the charitable sector in Canada.
 The analysis also uses a sociological lenses, immigration and disability to analyze the data.
-To this authors knowledge, no analysis of CRA T3010 data has been completed with a primary focus on racialized immigrants. (reference Brouard and other research on T3010 Data)
+To this authors knowledge, no analysis of CRA T3010 data has been completed with a primary focus on racialized immigrants. @brouardT3010ChallengesResearch2014
 
 ### Canada Revenue Agency T3010 data
 T3010 is the name of the CRA form through which charities in Canada file their primary financial reports with the government of Canada.
@@ -28,10 +28,13 @@ Annual reports on the other hand, provide valuable information about the charity
 Most usefully, T3010 data is provided by CRA to Canadian citizens free of charge.
 * A public and searchable version of T3010 data per individual charity is provided on the [CRA website](https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyBscSrch?request_locale=en).  
 * A less well known but still public file listing Canadian charities is provided through the Canadian Governments [Open Data Portal](https://open.canada.ca/en/open-data)
-* A set of files providing the T3010 information completed by Canadian Charities is also provided to Canadian researchers through [informal information requests](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/information-about-a-charity.html)
+* A set of files providing the T3010 information completed by Canadian Charities is also provided to Canadians through [informal information requests](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/information-about-a-charity.html)
 The set of T3010 data files used for this analysis was obtained through an  informal information request, and was received in a CD by postal mail in July 2020.
 An downloadable version was requested, but the CD by postal mail is the current process for distribution of these files.
 The files requested and received cover 20 years of CRA T3010 data, and the files for the year 2018 are used here for initial analysis since it is the most recent and most complete set of CRA T3010 data.
+* The set of CRA T3010 data is published on a more easily searchable website [charitydata](https://www.charitydata.ca/) by Blumbergs, which is a firm specializing in Canadian Charity Law.
+* The set of CRA T3010 data is additionally utilized on a more easily searchable website [charitydata](https://www.charitydata.ca/) by Blumbergs, which is a firm specializing in Canadian Charity Law.
+
 
 ### CRA T3010 data for 2018
 The files for the year 2018 were used as they are the "most" complete.
