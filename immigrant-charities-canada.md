@@ -33,12 +33,13 @@ The set of T3010 data files used for this analysis was obtained through an  info
 An downloadable version was requested, but the CD by postal mail is the current process for distribution of these files.
 The files requested and received cover 20 years of CRA T3010 data, and the files for the year 2018 are used here for initial analysis since it is the most recent and most complete set of CRA T3010 data.
 * The set of CRA T3010 data is published on a more easily searchable website [charitydata](https://www.charitydata.ca/) by Blumbergs, which is a firm specializing in Canadian Charity Law.
-* The set of CRA T3010 data is additionally utilized on a more easily searchable website [charitydata](https://www.charitydata.ca/) by Blumbergs, which is a firm specializing in Canadian Charity Law.
+* There have been other projects providing dynamic search databases of CRA T3010 data, therefore CRA T3010 is a valuable resource utilized by multiple stakeholders.
 
 
 ### CRA T3010 data for 2018
 The files for the year 2018 were used as they are the "most" complete.
-Even though files for years 2019 and 2020 were available, they are not as complete as the 2018 file since there is a lag in reporting time.
+Even though files for years 2019 and 2020 were available, they are not as complete as the 2018 file since there is a lag in reporting time.  
+Generally, Canadian charities have six months from the end of the fiscal year to report  their returns
 i.e. data for 2019 is reported in 2020, and in July 2020 when the files were created, not all charities will have completed their reporting for 2019, including only ~ 200 organizations.
 Similarly the file for 2019 only contains the reports for 2018 which have been submitted as of July 2020, a total of ~ 40,000 charities
 2018 files containing information for ~ 85,000 charities therefore contain both recent and most complete set of CRA T3010 data.
@@ -88,3 +89,5 @@ The Charity Type field in the Category_Sub-Category.csv file for example has fou
 4. purposes beneficial to the community (animal shelters, libraries, and volunteer fire departments)
 
 The short list of formal charity types is fairly restrictive, and the Category and Sub Category fields provide a more detailed set of classification possibilities.
+
+##### Category Code field
