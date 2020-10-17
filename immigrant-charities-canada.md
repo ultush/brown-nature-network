@@ -91,3 +91,45 @@ The Charity Type field in the Category_Sub-Category.csv file for example has fou
 The short list of formal charity types is fairly restrictive, and the Category and Sub Category fields provide a more detailed set of classification possibilities.
 
 ##### Category Code field
+
+|category_code |category_english_desc                               |
+|:-------------|:---------------------------------------------------|
+|0001          |Organizations Relieving Poverty                     |
+|0002          |Foundations Relieving Poverty                       |
+|0010          |Teaching Institutions                               |
+|0011          |Support of schools and education                    |
+|0012          |Education in the arts                               |
+|0013          |Educational organizations not elsewhere categorized |
+|0014          |Research                                            |
+|0015          |Foundations Advancing Education                     |
+|0030          |Christianity                                        |
+|0040          |Islam                                               |
+|0050          |Judaism                                             |
+|0060          |Other Religions                                     |
+|0070          |Support of Religion                                 |
+|0080          |Ecumenical and Inter-faith Organizations            |
+|0090          |Foundations Advancing Religions                     |
+|0100          |Core Health Care                                    |
+|0110          |Supportive Health Care                              |
+|0120          |Protective Health Care                              |
+|0130          |Health Care Products                                |
+|0140          |Complementary or Alternative Health Care            |
+|0150          |Relief of the Aged                                  |
+|0155          |Upholding Human Rights                              |
+|0160          |Community Resource                                  |
+|0170          |Environment                                         |
+|0175          |Agriculture                                         |
+|0180          |Animal Welfare                                      |
+|0190          |Arts                                                |
+|0200          |Public Amenities                                    |
+|0210          |Foundations                                         |
+|0214          |CAAA                                                |
+|0215          |NASO                                                |
+
+Significantly, the first level of categories provided in the CRA T3010 data does not include racialized immigrants, or immigrants as a separate category.
+Although it can be argued that some categories such as religion, will include a high proportion of immigrants, it  is not the same as having a category or categories for immigrants.
+The categories generally follow the four broader classifications of charities in Canada:
+1. relief of poverty
+2. advancement of education
+3. advancement of religion
+4. purposes beneficial to the community
