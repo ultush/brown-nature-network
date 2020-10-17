@@ -133,3 +133,422 @@ The categories generally follow the four broader classifications of charities in
 2. advancement of education
 3. advancement of religion
 4. purposes beneficial to the community
+
+A minor note, the overall categories have gaps in numbering for categories that were previously created by no longer used.
+
+##### Sub Category Code field
+
+Again we will find a lack of fields for categorizing charities whose primary purpose is serving racialized immigrants.
+Two specific classifications related to immigrants were found.
+The first is the Subcategory: Refugee (support and settlement assistance),found under the broader Category Organizations Relieving Poverty.
+The second is the Subcategory: Immigrant Services (jobs / language / etc.),found under the broader Category: Community Resource.
+
+Another important factor is if a charity categorizes itself as an organization providing Immigrant Services, it is not classifying itself  as an organization that provides environmental services.
+Therefore organizations that have multiple purposes are not able to classify themselves into these multiple categories.  
+
+
+
+##### Category_code 0001: Organizations Relieving Poverty                     
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Facilitator organization supporting, improving, and enhancing the work of groups involved in the relief of poverty       |
+|0002              |Humanitarian assistance (outside of Canada)                                                                              |
+|0003              |Medical services not otherwise covered by basic health care (dental / optometry / counselling)                           |
+|0004              |Operating a food bank                                                                                                    |
+|0005              |Operating a micro-lending program                                                                                        |
+|0006              |Operating a shelter                                                                                                      |
+|0007              |Orphanage                                                                                                                |
+|0008              |Pro-bono legal services                                                                                                  |
+|0009              |Providing low-cost housing                                                                                               |
+|0010              |Providing meals (including breakfast programs)                                                                           |
+|0011              |Providing medical equipment and supplies                                                                                 |
+|0012              |Providing household items (furniture / appliances)                                                                       |
+|0013              |Providing material assistance (clothing / computers / equipment)                                                         |
+|0014              |Providing work related clothing / career development tools / work integration (resume writing / interview tips)          |
+|0015              |Refugee (support and settlement assistance)                                                                              |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0002: Foundations Relieving Poverty                     
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Foundations for specified poverty charities                                                                              |
+|0002              |Foundations funding poverty QDs in general                                                                               |
+
+##### Category_code 0010: Teaching Institutions                     
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Preschool (early-childhood education / junior kindergarden)                                                              |
+|0002              |Kindergarten                                                                                                             |
+|0003              |Public elementary school                                                                                                 |
+|0004              |Independent elementary schools (includes religious)                                                                      |
+|0005              |Public middle school                                                                                                     |
+|0006              |Independent middle school (including religious)                                                                          |
+|0007              |Public secondary school                                                                                                  |
+|0008              |Independent secondary school (including religious)                                                                       |
+|0009              |Public district board (all grades)                                                                                       |
+|0010              |Catholic district / separate school board (all grades)                                                                   |
+|0011              |School association / board / district                                                                                    |
+|0012              |Schools for students with intellectual disabilities (physical / communicative / mental or social learning difficulties)  |
+|0013              |Vocational / technical school                                                                                            |
+|0014              |College (includes religious)                                                                                             |
+|0015              |University (includes religious)                                                                                          |
+|0016              |Educational camps                                                                                                        |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0011: Teaching Institutions
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |School councils (parent-teacher associations)                                                                            |
+|0002              |Tutoring programs or services                                                                                            |
+|0003              |Scholarships / bursaries / awards (scholastic achievement)                                                               |
+|0004              |Literary / debating society                                                                                              |
+|0005              |Literacy groups                                                                                                          |
+|0006              |Construction of schools / Renovations / building supplies                                                                |
+|0007              |Educational aids / schools supplies                                                                                      |
+|0008              |Fund for specific college / university  /school                                                                          |
+|0009              |Facilitator organization supporting and enhancing the work of groups involved in the advancement of education            |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0012: Education in the arts
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Art school (painting / sculpture / drawing / forms of visual arts)                                                       |
+|0002              |Music conservatory / school / society                                                                                    |
+|0003              |Theatre / film / drama school / society / company                                                                        |
+|0004              |Scholarships / bursaries / awards (studying performance arts)                                                            |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0013: Educational organizations not elsewhere categorized
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Cadets                                                                                                                   |
+|0002              |Guides                                                                                                                   |
+|0003              |Scouts                                                                                                                   |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0014: Research
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Medical research (health sciences / disease)                                                                             |
+|0002              |Environmental research (ecosystem / conservation / wildlife)                                                             |
+|0003              |Social sciences / humanities research (politics / law / linguistics / economics / psychology)                            |
+|0004              |Public policy research institutes economic / social policy                                                               |
+|0005              |Scholarships / bursaries / awards (for conducting research)                                                              |
+|0006              |Sciences / physics / chemistry                                                                                           |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0015: Foundations Advancing Education
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Foundations for specified educational charities                                                                          |
+|0002              |Foundations funding educational QDs in general                                                                           |
+
+##### Category_code 0030: Christianity
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Adventist                                                                                                                |
+|0002              |Anglican                                                                                                                 |
+|0003              |Apostolic                                                                                                                |
+|0004              |Baptist                                                                                                                  |
+|0005              |Catholic                                                                                                                 |
+|0006              |Church of Christ                                                                                                         |
+|0007              |Gospel                                                                                                                   |
+|0008              |Jehovahs Witnesses                                                                                                       |
+|0009              |Mennonite / Brethren / Hutterite                                                                                         |
+|0010              |Orthodox                                                                                                                 |
+|0011              |Pentecostal                                                                                                              |
+|0012              |Presbyterian                                                                                                             |
+|0013              |Protestant                                                                                                               |
+|0014              |Salvation Army Temples                                                                                                   |
+|0015              |United                                                                                                                   |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0040: Islam
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Ahmadi                                                                                                                   |
+|0002              |Alevi                                                                                                                    |
+|0003              |Ismaili                                                                                                                  |
+|0004              |Salafi / Wahhabi                                                                                                         |
+|0005              |Shia                                                                                                                     |
+|0006              |Sufi                                                                                                                     |
+|0007              |Sunni                                                                                                                    |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0050: Judaism
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Conservative                                                                                                             |
+|0002              |Kabbalah                                                                                                                 |
+|0003              |Orthodox                                                                                                                 |
+|0004              |Reform                                                                                                                   |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0060: Other Religions
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Baha'i                                                                                                                   |
+|0002              |Buddhism                                                                                                                 |
+|0003              |Hinduism                                                                                                                 |
+|0004              |Jainism                                                                                                                  |
+|0005              |Sikhism                                                                                                                  |
+|0006              |Zoroastrianism                                                                                                           |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0070: Support of Religion
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Cemeteries (religious)                                                                                                   |
+|0002              |Convents and Monasteries                                                                                                 |
+|0003              |Counselling (faith based)                                                                                                |
+|0004              |Crusade - one time event                                                                                                 |
+|0005              |Mission / Missionary organization                                                                                        |
+|0006              |Fund / endowment for specific faith based organization                                                                   |
+|0007              |Music - ministries / religious festivals                                                                                 |
+|0008              |Language translation - enable the reading of sacred text                                                                 |
+|0009              |Library - spiritual and educational resources                                                                            |
+|0010              |Pastoral care - hospice / hospital / prison                                                                              |
+|0011              |Pilgrimages                                                                                                              |
+|0012              |Prayer fellowships / ministries / circles                                                                                |
+|0013              |Providing and maintaining facilities / title-holding entities                                                            |
+|0014              |Religious education classes (bible study)                                                                                |
+|0015              |Retirement / nursing / rehabilitation etc.                                                                               |
+|0016              |Retreats - marriage encounter / spiritual / youth                                                                        |
+|0017              |Scholarships / bursaries / awards (religious courses)                                                                    |
+|0018              |Facilitator organization supporting, improving, and enhancing the work of groups involved in the advancement of religion |
+|0019              |Youth ministries / camps                                                                                                 |
+|0099              |Other                                                                                                                    |
+##### Category_code 0080: Ecumenical and Inter-faith Organizations
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Supporting/enhancing the work of religious groups/Collaborating with other denominations/Discussing theological topics   |
+
+##### Category_code 0090: Foundations Advancing Religions
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Foundations for specified religious charities                                                                            |
+|0002              |Foundations funding religious QDs in general                                                                             |
+
+##### Category_code 0100: Core Health Care
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Addiction recovery programs and centres                                                                                  |
+|0002              |Community health centre/ medical clinic                                                                                  |
+|0003              |Dental Clinic                                                                                                            |
+|0004              |Counselling or support group programs                                                                                    |
+|0005              |First aid services                                                                                                       |
+|0006              |Hospitals (diagnosing and treating health conditions)                                                                    |
+|0007              |Hospice                                                                                                                  |
+|0008              |Providing home health care                                                                                               |
+|0009              |Providing palliative care service                                                                                        |
+|0010              |Providing preventitive care                                                                                              |
+|0011              |Providing psychological counselling                                                                                      |
+|0012              |Providing physical, occupational, speech or massage therapy                                                              |
+|0013              |Rehabilitation programs and centres                                                                                      |
+|0014              |Treatment / preventative care for specific disease / health condition                                                    |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0110: Supportive Health Care
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Accompanying individuals to medical appointment/translate/interpret                                                      |
+|0002              |Accommodation for hospital patients' visit                                                                               |
+|0003              |Family planning / birth control / pregnancy crisis counseling                                                            |
+|0004              |General health promotion / prevention                                                                                    |
+|0005              |Health Boards - established by province                                                                                  |
+|0006              |Independent living skills (peer support / referrals)                                                                     |
+|0007              |Health counselling and group support programs                                                                            |
+|0008              |Health Councils - established by province                                                                                |
+|0009              |Health / medical conference / seminars                                                                                   |
+|0010              |Hospital auxiliaries                                                                                                     |
+|0011              |Providing comfort items (cope with hospitalization / health condition)                                                   |
+|0012              |Respite for caregivers of persons with serious health conditions                                                         |
+|0013              |Services that facilitate the delivery of health care                                                                     |
+|0014              |Services for adults and children with developmental disabilities                                                         |
+|0015              |Transportation to medical appointments                                                                                   |
+|0016              |Voluntary Association for specific hospital / home                                                                       |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0120: Protective Health Care
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Ambulance or paramedic services                                                                                          |
+|0002              |Disaster relief                                                                                                          |
+|0003              |Voluntary Fire-fighting services                                                                                         |
+|0004              |Regulating / governing health care service providers and standards                                                       |
+|0005              |Safety council / society                                                                                                 |
+|0006              |Search and rescue / lifesaving services                                                                                  |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0130: Health Care Products
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Drugs (radiopharmaceutical / biologics / medicines / vaccines)                                                           |
+|0002              |Medical equipment / supplies (for use inside or outside Canada)                                                          |
+|0003              |Providing natural health products                                                                                        |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0140: Complementary or Alternative Health Care
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Alternative medical services / products (dietary / herbal supplements)                                                   |
+|0002              |Energy-based systems (spiritual healing)                                                                                 |
+|0003              |Manipulative body- based therapy (osteopathy / massage therapy)                                                          |
+|0004              |Mind-body techniques (meditation / acupuncture)                                                                          |
+|0005              |Therapeutic programs for persons with disabilities                                                                       |
+|0006              |Traditional programs / whole medicine (Chinese / Ayurvedic)                                                              |
+|0007              |Providing physical fitness and wellness facilities / programs                                                            |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0150: Relief of the Aged
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Adapting residential accommodation                                                                                       |
+|0002              |Home support/services (personal care / meals / housekeeping / shopping assistance / laundry / home repair)               |
+|0003              |Nursing home / senior's home with care                                                                                   |
+|0004              |Relieving isolation (companionship / accompanient to social outings)                                                     |
+|0005              |Senior's outreach programs (housekeeping / tax preparation, etc.)                                                        |
+|0006              |Support services to victims of elder abuse / counselling                                                                 |
+|0007              |Transportation for seniors                                                                                               |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0155: Upholding Human Rights
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Increasing public awareness and promoting respect of human rights issues                                                 |
+|0002              |Monitoring / reporting on the fulfillment of human rights obligations                                                    |
+|0003              |Upholding human rights law / administration and enforcement of human rights law                                          |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0160: Community Resource
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Aboriginal programs and services (includes friendship centres)                                                           |
+|0002              |Battered women's centre                                                                                                  |
+|0003              |Crime prevention / preservation of law & order                                                                           |
+|0004              |Community land trust                                                                                                     |
+|0005              |Crisis / distress phone line                                                                                             |
+|0006              |Daycare  /Nursery / After school care                                                                                    |
+|0007              |Employment / Job training for people with physical and mental disabilities                                               |
+|0008              |Immigrant Services (jobs / language / etc.)                                                                              |
+|0009              |Legal assistance and services (mediation)                                                                                |
+|0010              |Military / family / veteran support                                                                                      |
+|0011              |Missing children organization                                                                                            |
+|0012              |Rape / sexual assault / abuse support                                                                                    |
+|0013              |Rehabilitation of offenders                                                                                              |
+|0014              |Suicide prevention                                                                                                       |
+|0015              |Facilitator organization supporting and enhancing the work of groups involved in the delivery of charitable programs     |
+|0016              |Employment counselling / guidance (career)                                                                               |
+|0017              |Employment training / rehabilitation                                                                                     |
+|0018              |Volunteerism                                                                                                             |
+|0019              |Youth programs and services                                                                                              |
+|0099              |Other                                                                                                                    |
+##### Category_code 0170: Environment
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Conservation of nature / habitat group / ecosystem preservation etc.                                                     |
+|0002              |Pollution Reduction                                                                                                      |
+|0003              |Environmental development solutions and technologies                                                                     |
+|0004              |Upholding environmental law                                                                                              |
+|0005              |Waste management reduction / recycling                                                                                   |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0180: Animal Welfare
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Agriculture / farm society or aid / safety                                                                               |
+|0002              |Horticultural society                                                                                                    |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0180: Agriculture
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Animal hospital                                                                                                          |
+|0002              |Animal shelter / neuter /adoption                                                                                        |
+|0003              |Wildlife protection organization                                                                                         |
+|0004              |Rescuing domestic / holding stray / abandoned / surrendered animals                                                      |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0190: Arts
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Arts council (promoting the industry)                                                                                    |
+|0002              |Arts festival                                                                                                            |
+|0003              |Crafts (beadwork / ceramics / furniture / glass / metal / wood / etc.)                                                   |
+|0004              |Dance (ballet / classical / jazz / modern / tap / etc.)                                                                  |
+|0005              |Literature (novels / playwriting / poetry / short stories / etc.)                                                        |
+|0006              |Media arts (animation / film / screenwriting / etc.)                                                                     |
+|0007              |Music (band / choral / gospel / jazz / opera / orchestral / etc.)                                                        |
+|0008              |Music Festival                                                                                                           |
+|0009              |Theatre / performing arts (drama /comedy /musical / puppetry / etc.)                                                     |
+|0010              |Visual arts (drawing and illustration / painting / photography / etc.)                                                   |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0200: Public Amenities
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Aquarium                                                                                                                 |
+|0002              |Archives                                                                                                                 |
+|0003              |Art gallery                                                                                                              |
+|0004              |Botanical garden                                                                                                         |
+|0005              |Camps / recreation                                                                                                       |
+|0006              |Cemetery (secular)                                                                                                       |
+|0007              |Community Centre / hall                                                                                                  |
+|0008              |Hall of fame                                                                                                             |
+|0009              |Heritage / Historical site                                                                                               |
+|0010              |Library                                                                                                                  |
+|0011              |Memorial                                                                                                                 |
+|0012              |Museum                                                                                                                   |
+|0013              |National and provincial parks                                                                                            |
+|0014              |Nature centre / society / trails                                                                                         |
+|0015              |Performing arts centre / facility                                                                                        |
+|0016              |Public recreation / arenas / parks / playgrounds / pools                                                                 |
+|0017              |Zoo / zoological society                                                                                                 |
+|0099              |Other                                                                                                                    |
+
+##### Category_code 0210: Foundations
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |Foundations for specified community benefit                                                                              |
+|0002              |Foundations funding community benefit QDs in general                                                                     |
+
+##### Category_code 0214: CAAA
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |CAAA                                                                                                                     |
+
+##### Category_code 0215: NASO
+
+|sub_category_code |sub_category_english_desc                                                                                                |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------|
+|0001              |NASO                                                                                                                     |
