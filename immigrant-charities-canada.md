@@ -1,6 +1,14 @@
 # Introduction
-This file describes a top down approach to understanding charitable organizations in Canada, through the sociological lens of racialized immigrants, and their interaction with environmental issues.
-Charities serving racialized immigrants in Canada are identified from available Canada Revenue Agency data.
+In Canada the social economy, known by its various components as the nonprofit sector, charitable sector, social enterprise primarily operates as though we are in a post-racial society.
+In a post racial society, racial prejudices are not part of social interactions and historical racial inequalities have been overcome to create equity for all.
+In this imagined post racial society the nonprofit sector is not impacted by racial hierarchies.
+In other words in a post racial society anyone, regardless of racial or ethnic background can form a nonprofit organization or a charity, or a social enterprise, and can be part of the leadership team in a social economy organization.
+This is one of the reasons the social economy in Canada has been resistant to collecting sectoral and leadership data on race and ethnicity despite long term calls to deal with the diversity issue in the sector (Mowat) and more recent calls by Senator Ratna Omidvar to report on the diversity of Canadian charity boards and leadership.
+The lack of data on race and ethnicity in social economy leads to lack of both academic and community research on the topic.
+It is not that researchers are not interested in the topic, but since the data is not available for analysis it therefore requires expensive research budgets to acquire primary data and studies are few and far between (Meinhardt).
+This research therefore addresses this gap by utilizing inferences from available literature and available Open Data.   
+This research specifically describes a top down approach to understanding charitable organizations in Canada, through the sociological lens of racialized immigrants, and their interaction with environmental issues as a case study.
+Open data is utilized form Canadian government departments, such as Immigration and Citizenship Canada and Canada Revenue Agency. For example, charities serving racialized immigrants in Canada are identified from available Canada Revenue Agency data.
 
 ## Motivation for research
 Research on charities indicates racialized communities being underserved both in terms of number of services and types of services.
@@ -20,12 +28,16 @@ The services provided by a mainstream charity for racialized immigrants will be 
 
 # Charities in Canada
 Charities in Canada are incorporated organizations and are approved by Canada Revenue Agency (CRA) based on a set of criteria.
-An important distinction in the social economy between Canada and other jurisdictions such as the US, is that non-profits in the U.S. are charities and can accept charitable donations unlike in Canada where not all non-profits are charities.
+An important distinction in the social economy between Canada and other jurisdictions such as the U.S., is that in Canada all charities are non-profits, but all non-profits are not charities.
+In the U.S. nonprofits are charities and can accept charitable donations.
+In Canada where not all non-profits are charities, and therefore not all nonprofits in Canada can accept charitable donations or issue tax receipts.
 Charities in Canada are a specific legal organizational designation that can accept, for example, financial donations and issue charitable tax receipts.
 Non-profits in Canada have a broader legal designation that cannot for example issue charitable tax receipts.
 Detailed differences between charities and nonprofit organizations in Canada are described by [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/about-registered-charities/what-difference-between-a-registered-charity-a-non-profit-organization.html).
 Furthermore, nonprofits in Canada can be registered or incorporated at both federal and provincial levels.
-In Canada all charities are non-profits, but all non-profits are not charities.
+Since nonprofits in Canada can be incorporated at federal or provincial levels a complete list of nonprofit organizations requires publication of a list of nonprofits by both federal and provincial governments.  
+No published list of nonprofit organizations across Canada exists, much to the chagrin of the sector.
+Even worse, social sector advocates have had to take provincial governments to court to require the government publish a list of provincially registered nonprofit organizations (Blumberg).
 This research focuses on charities in Canada, and specifically on data published by the CRA on Charities in Canada.
 
 ## Canada Revenue Agency
