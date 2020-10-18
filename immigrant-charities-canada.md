@@ -1,11 +1,11 @@
 # Introduction
-In Canada the social economy, known by its various components as the nonprofit sector, charitable sector, social enterprise primarily operates as though we are in a post-racial society.
-In a post racial society, racial prejudices are not part of social interactions and historical racial inequalities have been overcome to create equity for all.
+In Canada the social economy, known by its various components as the nonprofit sector, charitable sector, social enterprise primarily operates as though we are in a post-racial society [@dacostaThinkingPostRacialIdeology2016].
+In a post racial society, which is a utopian construct rather than a current reality, racial prejudices are not part of social interactions and historical racial inequalities have been overcome to create equity for all.
 In this imagined post racial society the nonprofit sector is not impacted by racial hierarchies.
 In other words in a post racial society anyone, regardless of racial or ethnic background can form a nonprofit organization or a charity, or a social enterprise, and can be part of the leadership team in a social economy organization.
-This is one of the reasons the social economy in Canada has been resistant to collecting sectoral and leadership data on race and ethnicity despite long term calls to deal with the diversity issue in the sector (Mowat) and more recent calls by Senator Ratna Omidvar to report on the diversity of Canadian charity boards and leadership.
-The lack of data on race and ethnicity in social economy leads to lack of both academic and community research on the topic.
-It is not that researchers are not interested in the topic, but since the data is not available for analysis it therefore requires expensive research budgets to acquire primary data and studies are few and far between (Meinhardt).
+The post-racial philosophy is one of the reasons the social economy in Canada has been resistant to collecting sectoral and leadership data on race and ethnicity despite long term calls to deal with the diversity issue in the sector (Mowat) and more recent calls by Senator Ratna Omidvar to report on the diversity of Canadian charity boards and leadership.
+The lack of data on race and ethnicity in the social economy leads to lack of both academic and community research on the topic.
+It is not that researchers are not interested in the topic of race and ethnicity in the social economy, but since the data is not available for analysis it therefore requires expensive research budgets to acquire primary data and therefore published studies are few and far between (Meinhardt).
 This research therefore addresses this gap by utilizing inferences from available literature and available Open Data.   
 This research specifically describes a top down approach to understanding charitable organizations in Canada, through the sociological lens of racialized immigrants, and their interaction with environmental issues as a case study.
 Open data is utilized form Canadian government departments, such as Immigration and Citizenship Canada and Canada Revenue Agency. For example, charities serving racialized immigrants in Canada are identified from available Canada Revenue Agency data.
@@ -26,8 +26,31 @@ Third the amount of funding matters, if charities serving racialized immigrants 
 Fourth, the leadership and community roots of all organizations matter.
 The services provided by a mainstream charity for racialized immigrants will be different in cultural basis from services provided by organizations formed by the community and for the community.
 
+##  The Power of Classification and Formal Taxonomies
+This research starts at a point that many researchers take as a given, that is the taxonomy of charities in Canada, as determined by Revenue Canada.
+Taxonomies are powerful ontologies and structures when they restrict and constrain types of organizations.
+There are three types of social economy organizational taxonomies that are considered here:
+1. Government driven organizational taxonomies.
+The purposes of these taxonomies include recognition of organizations as formal entities, and administration of the sector.
+2. Social economy driven organizational taxonomies.  
+The purposes of these taxonomies include referrals from one organization to another, and funding for organizations form non government foundations.
+3. Academic research driven organizational taxonomies.
+
+
+### Government driven organizational taxonomies
+The focus of this paper will be on Government driven organizational taxonomies.
+Examples of government driven organizational taxonomies include Category Code, Sub-Category Code, and Charity Type required by Revenue Canada for charities in Canada filing their annual returns.
+Another example of Government driven organizational taxonomies is the US National Taxonomy of Exempt Entities [(NTEE)](https://nccs.urban.org/project/national-taxonomy-exempt-entities-ntee-codes), which is a classification system for nonprofit organizations developed by the National Center for Charitable Statistics.
+The US Internal Revenue Service (IRS) classifies nonprofit organizations using this system.
+
+### Social economy driven organizational taxonomies
+An example of
+
+
+
+
 # Charities in Canada
-Charities in Canada are incorporated organizations and are approved by Canada Revenue Agency (CRA) based on a set of criteria.
+Charities in Canada are incorporated org. Examples of government driven organizaitonal taxonomies include anizations and are approved by Canada Revenue Agency (CRA) based on a set of criteria.
 An important distinction in the social economy between Canada and other jurisdictions such as the U.S., is that in Canada all charities are non-profits, but all non-profits are not charities.
 In the U.S. nonprofits are charities and can accept charitable donations.
 In Canada where not all non-profits are charities, and therefore not all nonprofits in Canada can accept charitable donations or issue tax receipts.
