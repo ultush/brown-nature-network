@@ -2,6 +2,22 @@
 This file describes a top down approach to understanding charitable organizations in Canada, through the sociological lens of racialized immigrants, and their interaction with environmental issues.
 Charities serving racialized immigrants in Canada are identified from available Canada Revenue Agency data.
 
+## Motivation for research
+Research on charities indicates racialized communities being underserved both in terms of number of services and types of services.
+As a troubling phenomenon, research indicates that the number of charities per capita decreases when the proportion of racialized population increases.
+There are additional concerns that the incumbent charitable sector organizations do not support the development and growth of organizations led by women from racialized communities.  
+Unless the nonprofit sector in Canada and the government acknowledges these issues and starts to address them, we will end up repeating the same problematic phenomenon of smallernumber of organizations serving racailized communities as the United States.
+
+This particular research study identifies structural issues limiting the growth of charities serving racialized immigrants.
+First, this research starts at a point that many researchers take as a given, that is the taxonomy of charities in Canada, as determined by Revenue Canada.
+Taxonomies are powerful ontologies and structures when they restrict and constrain types of organizations.
+For example, if charities serving racialized immigrants are limited to a classification of employment generation, they activities they can perform are limited.
+Second, the way charities are funded is another form of structural limitation.
+For example if charities serving racialized immigrants are funded primarily to achieve labour market outcomes, they will not have the capacity to provide other services related to health, environment and other forms of wholistic well being.
+Third the amount of funding matters, if charities serving racialized immigrants are limited by classification and funding accountability objectives, organizational funding will be limited.
+Fourth, the leadership and community roots of all organizations matter.
+The services provided by a mainstream charity for racialized immigrants will be different in cultural basis from services provided by organizations formed by the community and for the community.
+
 # Charities in Canada
 Charities in Canada are incorporated organizations and are approved by Canada Revenue Agency (CRA) based on a set of criteria.
 An important distinction in the social economy between Canada and other jurisdictions such as the US, is that non-profits in the U.S. are charities and can accept charitable donations unlike in Canada where not all non-profits are charities.
