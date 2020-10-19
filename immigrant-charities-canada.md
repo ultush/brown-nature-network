@@ -27,15 +27,16 @@ Fourth, the leadership and community roots of all organizations matter.
 The services provided by a mainstream charity for racialized immigrants will be different in cultural basis from services provided by organizations formed by the community and for the community.
 
 ##  The Power of Classification and Formal Taxonomies
-This research starts at a point that many researchers take as a given, that is the taxonomy of charities in Canada, as determined by Revenue Canada.
-Taxonomies are powerful ontologies and structures when they restrict and constrain types of organizations.
+This paper initially examines an area that many researchers overlook, that is the taxonomy of charities in Canada, as determined by Revenue Canada.
+Taxonomies are powerful ontologies and structures when they restrict the formation and constrain of operations of different types of organizations.
+As an example, a charity in Canada is both required to carry out specific types of activities, and is restricted to being a registered nonprofit organization by law.
 There are three types of social economy organizational taxonomies that are considered here:
 1. Government driven organizational taxonomies.
 The purposes of these taxonomies include recognition of organizations as formal entities, and administration of the sector.
 2. Social economy driven organizational taxonomies.  
 The purposes of these taxonomies include referrals from one organization to another, and funding for organizations form non government foundations.
 3. Academic research driven organizational taxonomies.
-
+The purposes of these taxonomies include analysis of similarities and differences between organizations, and summary of patterns across organizations.
 
 ### Government driven organizational taxonomies
 The focus of this paper will be on Government driven organizational taxonomies.
@@ -44,9 +45,37 @@ Another example of Government driven organizational taxonomies is the US Nationa
 The US Internal Revenue Service (IRS) classifies nonprofit organizations using this system.
 
 ### Social economy driven organizational taxonomies
-An example of
+Social economy organizational taxonomies are valuable since they are created by the sector for the sector.
+The most well known social economy taxonomies are Information and Referral Systems for social services.
+An example of a Canadian Information and Referral System is [Ontario 211](https://211ontario.ca/).
+One of the key differences between government driven organizational taxonomies and social economy driven organizational taxonomies is that social economy driven organizational taxonomies are more centered around the needs of individuals requiring services rather than the needs of government.
+For example the top level alphabetical classification in Ontario 211 intended to help  user find required services:
+* Abuse / Assault
+* Community Programs
+* Disabilities
+* Emergency / Crisis
+* Employment / Training
+* Family services
+* Food
+* Francophones
+* Government / Legal
+* Health Care
+* Homelessness
+* Housing
+* Income Support
+* Indigenous Peoples
+* LGBTQ+
+* Mental Health / Addictions
+* **Newcomers**
+* Older Adults
+* Youth
 
+The purposes of these taxonomies include referrals from one organization to another, and funding for organizations form non government foundations.
 
+Notably, Newcomers is a top level category on the 211 Ontario homepage connecting to organizations serving immigrants, and this is a significant difference form the CRA taxonomy which classifies immigrant serving organizations at a secondary level.
+The key point here being it matters who decides how to classify organizations, having implications on the types of organizations and the ability identify them and access their services.
+
+### Academic research driven organizational taxonomies
 
 
 # Charities in Canada
@@ -85,6 +114,7 @@ An downloadable version was requested, but the CD by postal mail is the current 
 The files requested and received cover 20 years of CRA T3010 data, and the files for the year 2018 are used here for initial analysis since it is the most recent and most complete set of CRA T3010 data.
 * The set of CRA T3010 data is published on a more easily searchable website [charitydata](https://www.charitydata.ca/) by Blumbergs, which is a firm specializing in Canadian Charity Law.
 * There have been other projects providing dynamic search databases of CRA T3010 data, therefore CRA T3010 is a valuable resource utilized by multiple stakeholders.
+
 
 
 ### CRA T3010 data for 2018
