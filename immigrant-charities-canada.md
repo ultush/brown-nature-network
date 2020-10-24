@@ -19,27 +19,26 @@ Open data is utilized form Canadian government departments, such as Immigration 
 Research on charities indicates racialized communities being underserved both in terms of number of services and types of services [@trueloveServicesImmigrantWomen2000].
 As a troubling phenomenon, research indicates that the number of charities per capita decreases when the proportion of racialized population increases [@garrowRACIALETHNICCOMPOSITION2015].
 There are additional concerns that the incumbent charitable sector organizations do not support the development and growth of organizations led by women from racialized communities [@taylorStateDiversityEnvironmental2014].  
-Unless the nonprofit sector in Canada and the government acknowledges these issues and starts to address them, Canada will end up repeating the same problematic phenomenon of smaller number of organizations serving racialized communities as the United States [].
+Unless the nonprofit sector in Canada and the government acknowledges these issues and starts to address them, Canada will end up repeating the same problematic phenomenon of smaller number of organizations serving racialized communities as the United States [@senguptaFutureSocialEconomy2016].
 
 This particular research study identifies structural issues limiting the growth of charities serving racialized immigrants.
 First, this research starts at a point that many researchers take as a given, that is the taxonomy of charities in Canada, as determined by Revenue Canada.
 Taxonomies are powerful ontologies and structures when they restrict and constrain types of organizations.
-For example, if charities serving racialized immigrants are limited to a classification of employment generation, they activities they can perform are limited.
+For example, if charities serving racialized immigrants are limited to a taxonomical classification of employment generation, the activities they can perform are limited.
 Second, the way charities are funded is another form of structural limitation.
-For example if charities serving racialized immigrants are funded primarily to achieve labour market outcomes, they will not have the capacity to provide other services related to health, environment and other forms of wholistic well being.
+For example if charities serving racialized immigrants are funded primarily to achieve labour market outcomes, they will not have the capacity to provide other services related to health, environment and other forms of wholistic well being.[@vahabiPerceivedBarriersAccessing2013]
 Third the amount of funding matters, if charities serving racialized immigrants are limited by classification and funding accountability objectives, organizational funding will be limited.
 Fourth, the leadership and community roots of all organizations matter.
-The services provided by a mainstream charity for racialized immigrants will be different in cultural basis from services provided by organizations formed by the community and for the community.
+The services provided by a mainstream charity for racialized immigrants will be different in cultural basis from services provided by organizations formed by different immigrant communities and for their own community.
 
 ##  The Power of Classification and Formal Taxonomies
-This paper initially examines an area that many researchers overlook, that is the taxonomy of charities in Canada, as determined by Revenue Canada.
 Taxonomies are powerful ontologies and structures when they restrict the formation and constrain of operations of different types of organizations.
 As an example, a charity in Canada is both required to carry out specific types of activities, and is restricted to being a registered nonprofit organization by law.
-There are three types of social economy organizational taxonomies that are considered here:
+There are three types of social economy organizational taxonomies that are considered in this paper:
 1. Government driven organizational taxonomies.
-The purposes of these taxonomies include recognition of organizations as formal entities, and administration of the sector.
+The purposes of these taxonomies include recognition of organizations as formal entities, and administration these organizations.
 2. Social economy driven organizational taxonomies.  
-The purposes of these taxonomies include referrals from one organization to another, and funding for organizations form non government foundations.
+The purposes of these taxonomies include referrals from one organization to another, and funding for organizations from foundations.
 3. Academic research driven organizational taxonomies.
 The purposes of these taxonomies include analysis of similarities and differences between organizations, and summary of patterns across organizations.
 
@@ -47,14 +46,14 @@ The purposes of these taxonomies include analysis of similarities and difference
 The focus of this paper will be on Government driven organizational taxonomies.
 Examples of government driven organizational taxonomies include Category Code, Sub-Category Code, and Charity Type required by Revenue Canada for charities in Canada filing their annual returns.
 Another example of Government driven organizational taxonomies is the US National Taxonomy of Exempt Entities [(NTEE)](https://nccs.urban.org/project/national-taxonomy-exempt-entities-ntee-codes), which is a classification system for nonprofit organizations developed by the National Center for Charitable Statistics.
-The US Internal Revenue Service (IRS) classifies nonprofit organizations using this system.
+The US Internal Revenue Service (IRS) classifies nonprofit organizations using the NTEE system.
 
 ### Social economy driven organizational taxonomies
 Social economy organizational taxonomies are valuable since they are created by the sector for the sector.
 The most well known social economy taxonomies are Information and Referral Systems for social services.
 An example of a Canadian Information and Referral System is [Ontario 211](https://211ontario.ca/).
-One of the key differences between government driven organizational taxonomies and social economy driven organizational taxonomies is that social economy driven organizational taxonomies are more centered around the needs of individuals requiring services rather than the needs of government.
-For example the top level alphabetical classification in Ontario 211 intended to help  user find required services:
+One of the key differences between government driven organizational taxonomies and social economy driven organizational taxonomies is that social economy driven organizational taxonomies are more centered around the needs of orgnaizaitons and individuals requiring services rather than the needs of government.
+For example the top level alphabetical classification in Ontario 211 intended to help users find required services:
 * Abuse / Assault
 * Community Programs
 * Disabilities
@@ -78,10 +77,20 @@ For example the top level alphabetical classification in Ontario 211 intended to
 The purposes of these taxonomies include referrals from one organization to another, and funding for organizations form non government foundations.
 
 Notably, Newcomers is a top level category on the 211 Ontario homepage connecting to organizations serving immigrants, and this is a significant difference form the CRA taxonomy which classifies immigrant serving organizations at a secondary level.
-The key point here being it matters who decides how to classify organizations, having implications on the types of organizations and the ability identify them and access their services.
+
+Another social economy taxonomy [The Open Eligibility Project](https://company.auntbertha.com/the-open-eligibility-project/) uses Human Situations to describe individual characteristics that can be matched orgnizational Human Services.
+Of note, immigrant related classifications are a top level category under "Citizenship".
+
+>Citizenship
+* Immigrants
+* Refugees
+* Undocumented
+
+
+The essential point being made here is that it matters who decides how to classify organizations, having implications on the types of organizations and the ability identify them and access their services.
 
 ### Academic research driven organizational taxonomies
-
+The most well know article on organization types was written by [@dimaggioIronCageRevisited1983], who determined that within a sector, organizations tend to become similar over time.
 
 # Charities in Canada
 Charities in Canada are incorporated org. Examples of government driven organizaitonal taxonomies include anizations and are approved by Canada Revenue Agency (CRA) based on a set of criteria.
