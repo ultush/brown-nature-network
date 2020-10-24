@@ -1,20 +1,25 @@
 # Introduction
-In Canada the social economy, known by its various components as the nonprofit sector, charitable sector, social enterprise primarily operates as though we are in a post-racial society [@dacostaThinkingPostRacialIdeology2016].
-In a post racial society, which is a utopian construct rather than a current reality, racial prejudices are not part of social interactions and historical racial inequalities have been overcome to create equity for all.
+
+In Canada the large sections of the social economy, known by its various components as the nonprofit sector, charitable sector, social enterprise primarily operates as though we are in a post-racial society [@dacostaThinkingPostRacialIdeology2016].
+In a post racial society, which is a utopian construct rather than a current reality, racial prejudices are not part of institutional structures and historical racial inequalities have been overcome to create equity for all.
 In this imagined post racial society the nonprofit sector is not impacted by racial hierarchies.
 In other words in a post racial society anyone, regardless of racial or ethnic background can form a nonprofit organization or a charity, or a social enterprise, and can be part of the leadership team in a social economy organization.
-The post-racial philosophy is one of the reasons the social economy in Canada has been resistant to collecting sectoral and leadership data on race and ethnicity despite long term calls to deal with the diversity issue in the sector (Mowat) and more recent calls by Senator Ratna Omidvar to report on the diversity of Canadian charity boards and leadership.
-The lack of data on race and ethnicity in the social economy leads to lack of both academic and community research on the topic.
-It is not that researchers are not interested in the topic of race and ethnicity in the social economy, but since the data is not available for analysis it therefore requires expensive research budgets to acquire primary data and therefore published studies are few and far between (Meinhardt).
+The post-racial philosophy is one of the reasons the social economy in Canada has been resistant to collecting sectoral and leadership data on race and ethnicity despite long term calls to deal with the diversity issue in the sector [@mcisaacDiversityInclusionMowat2].
+>"Based on recent survey findings, the not-for-profit sector in Ontario does not appear to be diverse in its leadership, or to have a strong commitment to diversity and inclusion at the organizational level." [@mcisaacDiversityInclusionMowat2].
+
+ More recent calls for diversity data in the social ecnomy have been expressed by Senator Ratna Omidvar, to specifically report on the diversity of Canadian charity boards and leadership [@omidvarCanadianNonProfitBoards2020014].
+
+The lack of data on race and ethnicity in the social economy limits the ability of both academic and community research on the topic.
+It is not that researchers are not interested in the topic of race and ethnicity in the social economy, but since the data is not available for analysis it therefore requires expensive research budgets to acquire primary data and therefore published studies are few and far between [@meinhardCivicParticipationVisible2011].
 This research therefore addresses this gap by utilizing inferences from available literature and available Open Data.   
 This research specifically describes a top down approach to understanding charitable organizations in Canada, through the sociological lens of racialized immigrants, and their interaction with environmental issues as a case study.
 Open data is utilized form Canadian government departments, such as Immigration and Citizenship Canada and Canada Revenue Agency. For example, charities serving racialized immigrants in Canada are identified from available Canada Revenue Agency data.
 
 ## Motivation for research
-Research on charities indicates racialized communities being underserved both in terms of number of services and types of services.
-As a troubling phenomenon, research indicates that the number of charities per capita decreases when the proportion of racialized population increases.
-There are additional concerns that the incumbent charitable sector organizations do not support the development and growth of organizations led by women from racialized communities.  
-Unless the nonprofit sector in Canada and the government acknowledges these issues and starts to address them, we will end up repeating the same problematic phenomenon of smallernumber of organizations serving racailized communities as the United States.
+Research on charities indicates racialized communities being underserved both in terms of number of services and types of services [@trueloveServicesImmigrantWomen2000].
+As a troubling phenomenon, research indicates that the number of charities per capita decreases when the proportion of racialized population increases [@garrowRACIALETHNICCOMPOSITION2015].
+There are additional concerns that the incumbent charitable sector organizations do not support the development and growth of organizations led by women from racialized communities [@taylorStateDiversityEnvironmental2014].  
+Unless the nonprofit sector in Canada and the government acknowledges these issues and starts to address them, Canada will end up repeating the same problematic phenomenon of smaller number of organizations serving racialized communities as the United States [].
 
 This particular research study identifies structural issues limiting the growth of charities serving racialized immigrants.
 First, this research starts at a point that many researchers take as a given, that is the taxonomy of charities in Canada, as determined by Revenue Canada.
