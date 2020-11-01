@@ -241,7 +241,8 @@ The second is the Subcategory: Immigrant Services (jobs / language / etc.),found
 Another important factor is if a charity categorizes itself as an organization providing Immigrant Services, it is not classifying itself  as an organization that provides environmental services.
 Therefore organizations that have multiple purposes are not able to classify themselves into these multiple categories.  
 
-
+The following list of tables is long and exhaustive, there were a total of 31 Categories of Charities and 252 subcategories in 2018 allowed by the CRA.
+The purpose of providing the complete list here is to demonstrate what categories are available, and what categories have been developed to a greater level of detail, while simultaneously what categories and subcategories have remain undeveloped.
 
 ##### Category_code 0001: Organizations Relieving Poverty                     
 
@@ -647,3 +648,181 @@ Therefore organizations that have multiple purposes are not able to classify the
 |sub_category_code |sub_category_english_desc                                                                                                |
 |:-----------------|:------------------------------------------------------------------------------------------------------------------------|
 |0001              |NASO                                                                                                                     |
+
+##### Number of Charities reporting in 2018 by Category and SubCategory
+
+|category_english                                    |sub_category_english                                                                                                     |  n()|
+|:---------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|----:|
+|Agriculture                                         |Agriculture / farm society or aid / safety                                                                               |   61|
+|Agriculture                                         |Horticultural society                                                                                                    |   18|
+|Animal Welfare                                      |Animal hospital                                                                                                          |    8|
+|Animal Welfare                                      |Animal shelter / neuter /adoption                                                                                        |  401|
+|Animal Welfare                                      |Other                                                                                                                    |  248|
+|Animal Welfare                                      |Rescuing domestic / holding stray / abandoned / surrendered animals                                                      |  140|
+|Animal Welfare                                      |Wildlife protection organization                                                                                         |  151|
+|Arts                                                |Arts council (promoting the industry)                                                                                    |   24|
+|Arts                                                |Arts festival                                                                                                            |  122|
+|Arts                                                |Crafts (beadwork / ceramics / furniture / glass / metal / wood / etc.)                                                   |   21|
+|Arts                                                |Music (band / choral / gospel / jazz / opera / orchestral / etc.)                                                        |  155|
+|Arts                                                |Music Festival                                                                                                           |  120|
+|Arts                                                |Other                                                                                                                    | 2148|
+|Christianity                                        |Adventist                                                                                                                |  423|
+|Christianity                                        |Anglican                                                                                                                 | 1757|
+|Christianity                                        |Baptist                                                                                                                  | 2022|
+|Christianity                                        |Catholic                                                                                                                 | 3736|
+|Christianity                                        |Jehovahs Witnesses                                                                                                       | 1591|
+|Christianity                                        |Mennonite / Brethren / Hutterite                                                                                         |  644|
+|Christianity                                        |Orthodox                                                                                                                 |   98|
+|Christianity                                        |Other                                                                                                                    | 9762|
+|Christianity                                        |Pentecostal                                                                                                              | 1345|
+|Christianity                                        |Presbyterian                                                                                                             | 1005|
+|Christianity                                        |Protestant                                                                                                               |  928|
+|Christianity                                        |Salvation Army Temples                                                                                                   |  298|
+|Christianity                                        |United                                                                                                                   | 2407|
+|Community Resource                                  |Aboriginal programs and services (includes friendship centres)                                                           |   29|
+|Community Resource                                  |Battered women's centre                                                                                                  |   41|
+|Community Resource                                  |Community land trust                                                                                                     |   13|
+|Community Resource                                  |Crime prevention / preservation of law & order                                                                           |  112|
+|Community Resource                                  |Crisis / distress phone line                                                                                             |   16|
+|Community Resource                                  |Daycare  /Nursery / After school care                                                                                    |  529|
+|Community Resource                                  |Employment / Job training for people with physical and mental disabilities                                               |   67|
+|Community Resource                                  |Employment training / rehabilitation                                                                                     |  116|
+|Community Resource                                  |Facilitator organization supporting and enhancing the work of groups involved in the delivery of charitable programs     |  120|
+|Community Resource                                  |Legal assistance and services (mediation)                                                                                |   58|
+|Community Resource                                  |Military / family / veteran support                                                                                      |   76|
+|Community Resource                                  |Missing children organization                                                                                            |    5|
+|Community Resource                                  |Other                                                                                                                    | 3123|
+|Community Resource                                  |Rape / sexual assault / abuse support                                                                                    |   58|
+|Community Resource                                  |Rehabilitation of offenders                                                                                              |   55|
+|Community Resource                                  |Suicide prevention                                                                                                       |   30|
+|Community Resource                                  |Youth programs and services                                                                                              |  357|
+|Complementary or Alternative Health Care            |Therapeutic programs for persons with disabilities                                                                       |  113|
+|Core Health Care                                    |Addiction recovery programs and centres                                                                                  |  270|
+|Core Health Care                                    |Community health centre/ medical clinic                                                                                  |  133|
+|Core Health Care                                    |Counselling or support group programs                                                                                    |  147|
+|Core Health Care                                    |Dental Clinic                                                                                                            |   16|
+|Core Health Care                                    |First aid services                                                                                                       |   12|
+|Core Health Care                                    |Hospice                                                                                                                  |   70|
+|Core Health Care                                    |Hospitals (diagnosing and treating health conditions)                                                                    |  341|
+|Core Health Care                                    |Other                                                                                                                    | 1495|
+|Core Health Care                                    |Providing home health care                                                                                               |   17|
+|Core Health Care                                    |Providing palliative care service                                                                                        |   82|
+|Core Health Care                                    |Rehabilitation programs and centres                                                                                      |   83|
+|Core Health Care                                    |Treatment / preventative care for specific disease / health condition                                                    |  587|
+|Education in the arts                               |Art school (painting / sculpture / drawing / forms of visual arts)                                                       |   91|
+|Education in the arts                               |Music conservatory / school / society                                                                                    |  441|
+|Education in the arts                               |Other                                                                                                                    |  556|
+|Education in the arts                               |Scholarships / bursaries / awards (studying performance arts)                                                            |   34|
+|Education in the arts                               |Theatre / film / drama school / society / company                                                                        |  648|
+|Educational organizations not elsewhere categorized |Cadets                                                                                                                   |  225|
+|Educational organizations not elsewhere categorized |Guides                                                                                                                   |   14|
+|Educational organizations not elsewhere categorized |Other                                                                                                                    |  773|
+|Educational organizations not elsewhere categorized |Scouts                                                                                                                   |   45|
+|Environment                                         |Conservation of nature / habitat group / ecosystem preservation etc.                                                     |  352|
+|Environment                                         |Other                                                                                                                    |   31|
+|Foundations                                         |Foundations for specified community benefit                                                                              | 1710|
+|Foundations                                         |Foundations funding community benefit QDs in general                                                                     | 6634|
+|Foundations Advancing Education                     |Foundations for specified educational charities                                                                          |  319|
+|Foundations Advancing Education                     |Foundations funding educational QDs in general                                                                           |  801|
+|Foundations Advancing Religions                     |Foundations for specified religious charities                                                                            |  115|
+|Foundations Advancing Religions                     |Foundations funding religious QDs in general                                                                             |  252|
+|Islam                                               |Other                                                                                                                    |  356|
+|Judaism                                             |Other                                                                                                                    |  347|
+|NASO                                                |NASO                                                                                                                     |   27|
+|Organizations Relieving Poverty                     |Operating a food bank                                                                                                    |  431|
+|Organizations Relieving Poverty                     |Operating a shelter                                                                                                      |   66|
+|Organizations Relieving Poverty                     |Orphanage                                                                                                                |   72|
+|Organizations Relieving Poverty                     |Other                                                                                                                    | 8898|
+|Organizations Relieving Poverty                     |Providing low-cost housing                                                                                               |  612|
+|Organizations Relieving Poverty                     |Providing material assistance (clothing / computers / equipment)                                                         |  946|
+|Organizations Relieving Poverty                     |Providing meals (including breakfast programs)                                                                           |   49|
+|Organizations Relieving Poverty                     |Refugee (support and settlement assistance)                                                                              |  133|
+|Other Religions                                     |Baha'i                                                                                                                   |  230|
+|Other Religions                                     |Buddhism                                                                                                                 |  344|
+|Other Religions                                     |Hinduism                                                                                                                 |  201|
+|Other Religions                                     |Jainism                                                                                                                  |    2|
+|Other Religions                                     |Other                                                                                                                    |    1|
+|Other Religions                                     |Sikhism                                                                                                                  |  163|
+|Protective Health Care                              |Ambulance or paramedic services                                                                                          |   10|
+|Protective Health Care                              |Disaster relief                                                                                                          |   72|
+|Protective Health Care                              |Safety council / society                                                                                                 |   26|
+|Protective Health Care                              |Search and rescue / lifesaving services                                                                                  |  125|
+|Protective Health Care                              |Voluntary Fire-fighting services                                                                                         |  156|
+|Public Amenities                                    |Aquarium                                                                                                                 |    8|
+|Public Amenities                                    |Archives                                                                                                                 |   33|
+|Public Amenities                                    |Art gallery                                                                                                              |   28|
+|Public Amenities                                    |Botanical garden                                                                                                         |   11|
+|Public Amenities                                    |Camps / recreation                                                                                                       | 1828|
+|Public Amenities                                    |Cemetery (secular)                                                                                                       |  464|
+|Public Amenities                                    |Community Centre / hall                                                                                                  |  302|
+|Public Amenities                                    |Hall of fame                                                                                                             |   26|
+|Public Amenities                                    |Heritage / Historical site                                                                                               | 1174|
+|Public Amenities                                    |Library                                                                                                                  |  169|
+|Public Amenities                                    |Memorial                                                                                                                 |   30|
+|Public Amenities                                    |Museum                                                                                                                   |  350|
+|Public Amenities                                    |National and provincial parks                                                                                            |   19|
+|Public Amenities                                    |Nature centre / society / trails                                                                                         |   90|
+|Public Amenities                                    |Other                                                                                                                    | 1706|
+|Public Amenities                                    |Public recreation / arenas / parks / playgrounds / pools                                                                 |  153|
+|Public Amenities                                    |Zoo / zoological society                                                                                                 |    4|
+|Relief of the Aged                                  |Home support/services (personal care / meals / housekeeping / shopping assistance / laundry / home repair)               |   44|
+|Relief of the Aged                                  |Nursing home / senior's home with care                                                                                   |   40|
+|Relief of the Aged                                  |Relieving isolation (companionship / accompanient to social outings)                                                     |   83|
+|Relief of the Aged                                  |Senior's outreach programs (housekeeping / tax preparation, etc.)                                                        |  192|
+|Relief of the Aged                                  |Transportation for seniors                                                                                               |   49|
+|Research                                            |Environmental research (ecosystem / conservation / wildlife)                                                             |    3|
+|Research                                            |Medical research (health sciences / disease)                                                                             |   64|
+|Research                                            |Sciences / physics / chemistry                                                                                           |  127|
+|Support of Religion                                 |Convents and Monasteries                                                                                                 |  463|
+|Support of Religion                                 |Crusade - one time event                                                                                                 |    1|
+|Support of Religion                                 |Facilitator organization supporting, improving, and enhancing the work of groups involved in the advancement of religion |   56|
+|Support of Religion                                 |Fund / endowment for specific faith based organization                                                                   |   67|
+|Support of Religion                                 |Mission / Missionary organization                                                                                        | 1196|
+|Support of Religion                                 |Music - ministries / religious festivals                                                                                 |   18|
+|Support of Religion                                 |Other                                                                                                                    | 2103|
+|Support of Religion                                 |Prayer fellowships / ministries / circles                                                                                |  194|
+|Support of Religion                                 |Providing and maintaining facilities / title-holding entities                                                            |   27|
+|Support of Religion                                 |Religious education classes (bible study)                                                                                |    3|
+|Support of Religion                                 |Retreats - marriage encounter / spiritual / youth                                                                        |   64|
+|Support of Religion                                 |Youth ministries / camps                                                                                                 |  133|
+|Support of schools and education                    |Fund for specific college / university  /school                                                                          |    9|
+|Support of schools and education                    |Literacy groups                                                                                                          |  127|
+|Support of schools and education                    |Literary / debating society                                                                                              |   27|
+|Support of schools and education                    |Other                                                                                                                    | 2839|
+|Support of schools and education                    |Scholarships / bursaries / awards (scholastic achievement)                                                               |  640|
+|Support of schools and education                    |School councils (parent-teacher associations)                                                                            |  125|
+|Supportive Health Care                              |Accommodation for hospital patients' visit                                                                               |    7|
+|Supportive Health Care                              |Family planning / birth control / pregnancy crisis counseling                                                            |   40|
+|Supportive Health Care                              |General health promotion / prevention                                                                                    |  114|
+|Supportive Health Care                              |Health / medical conference / seminars                                                                                   |    8|
+|Supportive Health Care                              |Health Boards - established by province                                                                                  |    9|
+|Supportive Health Care                              |Health Councils - established by province                                                                                |    2|
+|Supportive Health Care                              |Hospital auxiliaries                                                                                                     |   69|
+|Supportive Health Care                              |Other                                                                                                                    | 1524|
+|Supportive Health Care                              |Respite for caregivers of persons with serious health conditions                                                         |   46|
+|Supportive Health Care                              |Services for adults and children with developmental disabilities                                                         |   29|
+|Supportive Health Care                              |Services that facilitate the delivery of health care                                                                     |    1|
+|Supportive Health Care                              |Voluntary Association for specific hospital / home                                                                       |   72|
+|Teaching Institutions                               |College (includes religious)                                                                                             |  112|
+|Teaching Institutions                               |Independent elementary schools (includes religious)                                                                      |   81|
+|Teaching Institutions                               |Independent secondary school (including religious)                                                                       |   22|
+|Teaching Institutions                               |Kindergarten                                                                                                             |   25|
+|Teaching Institutions                               |Other                                                                                                                    | 2570|
+|Teaching Institutions                               |Preschool (early-childhood education / junior kindergarden)                                                              |  104|
+|Teaching Institutions                               |Public district board (all grades)                                                                                       |  130|
+|Teaching Institutions                               |Public elementary school                                                                                                 |   11|
+|Teaching Institutions                               |Public secondary school                                                                                                  |    4|
+|Teaching Institutions                               |School association / board / district                                                                                    |   18|
+|Teaching Institutions                               |Schools for students with intellectual disabilities (physical / communicative / mental or social learning difficulties)  |   59|
+|Teaching Institutions                               |Vocational / technical school                                                                                            |   72|
+|Upholding Human Rights                              |Other                                                                                                                    |   25|
+
+##### Observations from table Number of Charities reporting in 2018 by Category and SubCategory
+A number of observations can be made from this table:
+1. No Canadian charities were classified as "Immigrant Services" in 2018 (categories with no charities were not included in the table to reduce table size)
+2. Only 133 charities out of a total of 84,355 charities (0.16%) were classified as serving Refugees (support and settlement assistance).
+3.  There are a significant number of charities classified in the "Other" subcategory for each given charity, indicating a need for updating the categories and subcategories.  
+In fact only 133 out of a total of 252 Category/Sub Category combinations were used, and given almost half of the categories are not used, a revised classification scheme would be useful.
+
+#### Charity Program Classifications
+This section examines classifications of programs, both as  
