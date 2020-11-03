@@ -52,7 +52,7 @@ The US Internal Revenue Service (IRS) classifies nonprofit organizations using t
 Social economy organizational taxonomies are valuable since they are created by the sector for the sector.
 The most well known social economy taxonomies are Information and Referral Systems for social services.
 An example of a Canadian Information and Referral System is [Ontario 211](https://211ontario.ca/).
-One of the key differences between government driven organizational taxonomies and social economy driven organizational taxonomies is that social economy driven organizational taxonomies are more centered around the needs of orgnaizaitons and individuals requiring services rather than the needs of government.
+One of the key differences between government driven organizational taxonomies and social economy driven organizational taxonomies is that social economy driven organizational taxonomies are more centered around the needs of organizations and individuals requiring services rather than the needs of government.
 For example the top level alphabetical classification in Ontario 211 intended to help users find required services:
 * Abuse / Assault
 * Community Programs
@@ -825,4 +825,80 @@ A number of observations can be made from this table:
 In fact only 133 out of a total of 252 Category/Sub Category combinations were used, and given almost half of the categories are not used, a revised classification scheme would be useful.
 
 #### Charity Program Classifications
-This section examines classifications of programs, both as  
+This section examines classifications of programs, both in terms of the allowed classifications, and in terms of how the charities classify themselves. Since Canadian charities can classify themselves in terms of multiple programs, a more nuanced picture of who the charities serve should emerge form the program classifications.
+
+The following program classifications were available from the 2018 files provided by Canadian Revenue Agency:
+
+|program_code |program_english                                              |
+|:------------|:------------------------------------------------------------|
+|A1           |Housing for seniors, low-income, & those with disabilities   |
+|A10          |Emergency shelter                                            |
+|A11          |Family and crisis counselling, financial counselling         |
+|A12          |Immigrant aid                                                |
+|A13          |Rehabilitation of offenders                                  |
+|A14          |Disaster relief                                              |
+|A2           |Food or clothing banks, soup kitchens, hostels               |
+|A3           |Employment preparation and training                          |
+|A4           |Legal assistance and services                                |
+|A5           |Other services for low-income people                         |
+|A6           |Seniors' services                                            |
+|A7           |Services for the physically or mentally challenged           |
+|A8           |Children and youth services/housing                          |
+|A9           |Services for aboriginal people                               |
+|B1           |Social services                                              |
+|B2           |Infrastructure development                                   |
+|B3           |Agricultural programs                                        |
+|B4           |Medical services                                             |
+|B5           |Literacy/education/training programs                         |
+|B6           |Disaster/war relief                                          |
+|C1           |Scholarships, bursaries, awards                              |
+|C10          |Public education, other study programs                       |
+|C11          |Research (scientific, medical, environmental, etc)           |
+|C12          |Learned societies (e.g., Royal Astronomical Society)         |
+|C13          |Youth groups (Girl Guides, cadets, 4-H clubs, etc.)          |
+|C2           |Support of schools and education (parent-teacher groups)     |
+|C3           |Universities and colleges                                    |
+|C4           |Public schools and boards                                    |
+|C5           |Independent schools and boards                               |
+|C6           |Nursery programs/schools (excluding daycare)                 |
+|C7           |Vocational and technical training (see guide)                |
+|C8           |Literacy programs                                            |
+|C9           |Cultural programs, including heritage languages              |
+|D1           |Museums, galleries, concert halls, etc.                      |
+|D2           |Festivals, performing groups, musical ensembles              |
+|D3           |Arts schools, grants and awards for artists                  |
+|D4           |Cultural centres and associations                            |
+|D5           |Historical sites, heritage societies                         |
+|E1           |Places of worship, congregations, parishes, dioceses, etc.   |
+|E2           |Missionary organizations, evangelism                         |
+|E3           |Religious publishing and broadcasting                        |
+|E4           |Seminaries and other religious colleges                      |
+|E5           |Social outreach, religious fellowship, & auxiliary orgs.     |
+|F1           |Hospitals                                                    |
+|F2           |Nursing homes, hospices                                      |
+|F3           |Clinics                                                      |
+|F4           |Services for the sick                                        |
+|F5           |Mental-health services and support groups                    |
+|F6           |Addiction services and support groups                        |
+|F7           |Other mutual-support groups (e.g., cancer patients)          |
+|F8           |Promotion and protection of health (see guide)               |
+|F9           |Specialized health organizations (see guide)                 |
+|G1           |Nature, habitat-conservation groups                          |
+|G2           |Preservation of species, wildlife protection                 |
+|G3           |General environmental protection, recycling services         |
+|H1           |Agricultural and horticultural societies                     |
+|H10          |Crime prevention, public safety, preservation of law & order |
+|H11          |Ambulance, fire, rescue, and other emergency services        |
+|H12          |Human rights                                                 |
+|H13          |Mediation services                                           |
+|H14          |Consumer protection                                          |
+|H15          |Support and services for charitable sector                   |
+|H2           |Welfare of domestic animals                                  |
+|H3           |Parks, botanical gardens, zoos, aquariums, etc.              |
+|H4           |Community recreation facilities, trails, etc.                |
+|H5           |Community halls                                              |
+|H6           |Libraries                                                    |
+|H7           |Cemeteries                                                   |
+|H8           |Summer camps                                                 |
+|H9           |Day care/after-school care                                   |
+|I1           |(Free-form text)                                             |
