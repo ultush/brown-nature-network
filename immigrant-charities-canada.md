@@ -982,4 +982,81 @@ The following tables indicate number of charities classified by programs based o
 |Youth groups (Girl Guides, cadets, 4-H clubs, etc.)          |          578|          294|          502|   1374|
 |NA                                                           |        21179|        51634|        64650| 137463|
 
-The last column is the most relevant for analysis in this context
+The last column is the most relevant for analysis in this context. The following program table is sorted by the total number of programs. Note that each column that constitutes the total programs. i.e. program_1200, program_1210, program_1220 generally indicate the first, second, and third choice of programs as selected by each charity.  In the his part of the analysis, each program listing is considered to be equal regardless of field, and therefore simply added to the total.
+
+As shown in the following table, the first three identifiable categories are related to religion. This may include religious charities specifically serving racialied immigrants as well as dominant communities. "Immigrant Aid" the only category explicitly  identified for Immigrants is around the middle when ranked by total number of programs for Canadian charities in 2018.
+
+|program_english                                              | program_1200| program_1210| program_1220|  total|
+|:------------------------------------------------------------|------------:|------------:|------------:|------:|
+|NA                                                           |        21179|        51634|        64650| 137463|
+|Places of worship, congregations, parishes, dioceses, etc.   |        18555|         2162|          318|  21035|
+|(Free-form text)                                             |         7839|         4478|         3529|  15846|
+|Missionary organizations, evangelism                         |         2478|         5324|         1440|   9242|
+|Social outreach, religious fellowship, & auxiliary orgs.     |         1091|         4228|         2898|   8217|
+|Festivals, performing groups, musical ensembles              |         2164|          410|          242|   2816|
+|Public education, other study programs                       |          818|         1156|          633|   2607|
+|Scholarships, bursaries, awards                              |         1523|          691|          386|   2600|
+|Food or clothing banks, soup kitchens, hostels               |         1333|          664|          560|   2557|
+|Services for the physically or mentally challenged           |         1607|          473|          203|   2283|
+|Other services for low-income people                         |          807|          883|          539|   2229|
+|Children and youth services/housing                          |         1252|          514|          324|   2090|
+|Seniors' services                                            |         1203|          410|          294|   1907|
+|Seminaries and other religious colleges                      |          291|          800|          717|   1808|
+|Housing for seniors, low-income, & those with disabilities   |         1150|          323|          128|   1601|
+|Museums, galleries, concert halls, etc.                      |         1164|          298|          135|   1597|
+|Hospitals                                                    |         1107|          222|          159|   1488|
+|Family and crisis counselling, financial counselling         |          512|          512|          419|   1443|
+|Support of schools and education (parent-teacher groups)     |          796|          383|          211|   1390|
+|Youth groups (Girl Guides, cadets, 4-H clubs, etc.)          |          578|          294|          502|   1374|
+|Day care/after-school care                                   |          945|          213|           94|   1252|
+|Historical sites, heritage societies                         |          714|          369|          137|   1220|
+|Cemeteries                                                   |          802|          241|          176|   1219|
+|Support and services for charitable sector                   |          703|          215|          228|   1146|
+|Religious publishing and broadcasting                        |          299|          356|          485|   1140|
+|Research (scientific, medical, environmental, etc)           |          450|          398|          281|   1129|
+|Specialized health organizations (see guide)                 |          688|          241|          160|   1089|
+|Independent schools and boards                               |          855|          167|           59|   1081|
+|Community recreation facilities, trails, etc.                |          548|          302|          173|   1023|
+|Promotion and protection of health (see guide)               |          362|          398|          254|   1014|
+|Social services                                              |          486|          312|          198|    996|
+|Mental-health services and support groups                    |          616|          238|          139|    993|
+|Cultural programs, including heritage languages              |          342|          401|          220|    963|
+|Nursing homes, hospices                                      |          581|          230|          114|    925|
+|Literacy/education/training programs                         |          384|          322|          182|    888|
+|Summer camps                                                 |          348|          266|          245|    859|
+|Employment preparation and training                          |          325|          285|          189|    799|
+|Other mutual-support groups (e.g., cancer patients)          |          396|          208|          136|    740|
+|Universities and colleges                                    |          486|          142|          107|    735|
+|Nature, habitat-conservation groups                          |          432|          174|           89|    695|
+|Libraries                                                    |          492|           90|           97|    679|
+|Public schools and boards                                    |          518|           95|           58|    671|
+|Community halls                                              |          305|          226|          135|    666|
+|Cultural centres and associations                            |          267|          201|          167|    635|
+|Nursery programs/schools (excluding daycare)                 |          368|          185|           61|    614|
+|Emergency shelter                                            |          349|          131|          125|    605|
+|Services for the sick                                        |          242|          190|          127|    559|
+|Literacy programs                                            |          302|          132|           98|    532|
+|Addiction services and support groups                        |          307|          115|           89|    511|
+|Arts schools, grants and awards for artists                  |          203|          192|           65|    460|
+|Preservation of species, wildlife protection                 |          165|          214|           74|    453|
+|General environmental protection, recycling services         |          159|          120|          157|    436|
+|Welfare of domestic animals                                  |          329|           32|           30|    391|
+|Ambulance, fire, rescue, and other emergency services        |          339|           24|           27|    390|
+|Immigrant aid                                                |          162|          115|           99|    376|
+|Vocational and technical training (see guide)                |          132|          151|           79|    362|
+|Medical services                                             |          141|          121|           99|    361|
+|Crime prevention, public safety, preservation of law & order |          189|          100|           69|    358|
+|Agricultural and horticultural societies                     |          264|           41|           29|    334|
+|Disaster relief                                              |           25|           45|          247|    317|
+|Clinics                                                      |          146|           82|           75|    303|
+|Rehabilitation of offenders                                  |          164|           59|           56|    279|
+|Human rights                                                 |           81|           98|           99|    278|
+|Services for aboriginal people                               |          147|           58|           66|    271|
+|Parks, botanical gardens, zoos, aquariums, etc.              |          132|           71|           49|    252|
+|Infrastructure development                                   |           92|           66|           53|    211|
+|Disaster/war relief                                          |           41|           53|           98|    192|
+|Legal assistance and services                                |           87|           61|           37|    185|
+|Agricultural programs                                        |           46|           52|           54|    152|
+|Learned societies (e.g., Royal Astronomical Society)         |           92|           22|           22|    136|
+|Mediation services                                           |           13|           20|           13|     46|
+|Consumer protection                                          |            8|           17|            9|     34|
